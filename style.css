@@ -167,7 +167,9 @@ ul{list-style: none;}
 }
 
 .container .progress .progress-container .box:nth-child(2){
-     background-color: #95CFD9;
+    background-image: url("https://apexcharts.com/wp-content/uploads/2018/05/dashboard-modern.png");
+    background-size: cover;
+    background-position: center;
 }
 .container .progress .progress-container .box:nth-child(3){
      grid-column-start: 1;
